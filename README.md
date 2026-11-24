@@ -1,5 +1,5 @@
-### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 
+### EX 5 Information Retrieval Using Boolean Model in Python
+### DATE: 24.11.2026
 ### Name: SANJAYKUMAR B
 ### REG NO: 212224230242
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
